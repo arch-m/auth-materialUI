@@ -1,3 +1,8 @@
+/* eslint-disable object-curly-spacing */
+/* eslint-disable comma-dangle */
+/* eslint-disable indent */
+/* eslint-disable max-len */
+/* eslint-disable require-jsdoc */
 // This optional code is used to register a service worker.
 // register() is not called by default.
 
